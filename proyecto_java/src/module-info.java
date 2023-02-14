@@ -5,5 +5,5 @@
  * @author rubén
  *
  */
-module gfdsasadffsadfdsafsda {
+module proyecto_java {
 }
